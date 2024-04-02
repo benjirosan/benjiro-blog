@@ -2,7 +2,7 @@
 title: Get in touch
 seo:
   title: Contact
-  description: Get in touch through email! Let me know how I can help.
+  description: Get in touch through email.
 ---
 
 Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch:
