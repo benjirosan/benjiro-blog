@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: "Benjiro's Recovery Notes",
-    subtitle: 'Field notes on trauma, shame, and addiction',
+    subtitle: 'On trauma, shame, and addiction',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -50,18 +50,22 @@ const siteConfig: SiteConfig = {
             text: 'Home',
             href: '/'
         },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
+        /*   {
+              text: 'Projects',
+              href: '/projects'
+          }, */
         {
             text: 'Blog',
             href: '/blog'
         },
         {
+            text: 'About',
+            href: '/about'
+        }
+        /* {
             text: 'Tags',
             href: '/tags'
-        }
+        } */
     ],
     footerNavLinks: [
         {
@@ -71,32 +75,32 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
+        /*  {
+             text: 'Terms',
+             href: '/terms'
+         },
+         {
+             text: 'Download theme',
+             href: 'https://github.com/JustGoodUI/dante-astro-theme'
+         } */
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        /*    {
+               text: 'Dribbble',
+               href: 'https://dribbble.com/'
+           },
+           {
+               text: 'Instagram',
+               href: 'https://instagram.com/'
+           },
+           {
+               text: 'X/Twitter',
+               href: 'https://twitter.com/'
+           } */
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
+        title: 'Why I started this blog',
         text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
@@ -110,7 +114,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to the Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
