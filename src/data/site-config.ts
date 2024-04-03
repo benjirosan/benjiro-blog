@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: "Benjiro's Recovery Notes",
+    title: "Benjiro's Blog",
     subtitle: 'On trauma, shame, and addiction',
-    description: 'Benjiro writes about trauma, shame, addiction, and the journey of recovery.',
+    description: 'Benjiro writes about trauma, shame, addiction, and the pathways for healing.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Why I started this blog',
-        text: "I'm in recovery and this blog is where I share what I'm learning about trauma, shame, and addiction. These are powerful, messy, and very real aspects of being a human being that negatively effect a person's quality of life.\nI feel moved to share what I'm learning in the hope that it may help someone else.\nWith compassion,\nBenjiro",
+        text: "This blog is where I share what I'm learning about trauma, shame, and addiction. These are big, powerful, and messy problems which effect millions of people around the world. It's my hope that sharing what I'm learning may help someone else.",
         image: {
             /*   src: '/hero.jpeg',
               alt: 'A person sitting at a desk in front of a computer' */
