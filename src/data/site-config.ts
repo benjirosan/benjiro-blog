@@ -100,18 +100,18 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: 'Why I started this blog (!site under construction!)',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Why I started this blog',
+        text: "I'm in recovery and this blog is where I share what I'm learning about trauma, shame, and addiction. These are powerful, messy, and very real aspects of being a human being that negatively effect a person's quality of life. I feel moved to share what I'm learning in the hope that it may help someone else. With compassion, Benjiro",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
+            /*   src: '/hero.jpeg',
+              alt: 'A person sitting at a desk in front of a computer' */
+        }/* ,
         actions: [
             {
                 text: 'Get in Touch',
                 href: '/contact'
             }
-        ]
+        ] */
     },
     subscribe: {
         title: 'Subscribe to the Newsletter',
