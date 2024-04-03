@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: "Benjiro's Recovery Notes",
     subtitle: 'On trauma, shame, and addiction',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'Benjiro writes about trauma, shame, addiction, and the journey of recovery.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Why I started this blog',
-        text: "I'm in recovery and this blog is where I share what I'm learning about trauma, shame, and addiction. These are powerful, messy, and very real aspects of being a human being that negatively effect a person's quality of life. I feel moved to share what I'm learning in the hope that it may help someone else. With compassion, Benjiro",
+        text: "I'm in recovery and this blog is where I share what I'm learning about trauma, shame, and addiction. These are powerful, messy, and very real aspects of being a human being that negatively effect a person's quality of life.\nI feel moved to share what I'm learning in the hope that it may help someone else.\nWith compassion,\nBenjiro",
         image: {
             /*   src: '/hero.jpeg',
               alt: 'A person sitting at a desk in front of a computer' */
@@ -115,7 +115,7 @@ const siteConfig: SiteConfig = {
     },
     subscribe: {
         title: 'Subscribe to the Newsletter',
-        text: 'Get notified about the latest posts.',
+        text: 'I send out emails when I post',
         formUrl: '#'
     },
     postsPerPage: 8,
