@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: "Benjiro's Blog",
-    subtitle: 'On trauma, shame, and addiction',
-    description: 'Benjiro writes about trauma, shame, addiction, and the pathways for healing.',
+    subtitle: 'On trauma, shame, and recovery',
+    description: 'Benjiro writes about trauma, shame, and recovery.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -57,21 +57,21 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
-        },
+        }/* ,
         {
             text: 'About',
             href: '/about'
-        }
+        } */
         /* {
             text: 'Tags',
             href: '/tags'
         } */
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
+        /*  {
+             text: 'About',
+             href: '/about'
+         }, */
         {
             text: 'Contact',
             href: '/contact'
@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: 'Why I started this blog',
+        title: 'Shame affects all of us',
         text: "This blog is where I share what I'm learning about trauma, shame, and addiction. These are big, powerful, and messy problems which effect millions of people around the world. It's my hope that sharing what I'm learning may help someone else.",
         image: {
             /*   src: '/hero.jpeg',
@@ -115,7 +115,7 @@ const siteConfig: SiteConfig = {
     },
     subscribe: {
         title: 'Subscribe to the Newsletter',
-        text: 'I send out emails when I post',
+        text: 'Get new posts via email',
         formUrl: '#'
     },
     postsPerPage: 8,
