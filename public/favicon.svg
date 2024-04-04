@@ -4,16 +4,16 @@
       background: white;
     } -->
     circle {
-      fill: purple;
+      fill: mediumslateblue;
     }
     @media (prefers-color-scheme: dark)  {
    <!--    svg {
         background: black;
       } -->
       circle {
-        fill: purple;
+        fill: mediumslateblue;
       }
     }
   </style>
-  <circle cx="50" cy="50" r="50"/>
+  <circle cx="50" cy="50" r="40"/>
 </svg>
