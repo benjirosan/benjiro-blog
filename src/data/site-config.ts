@@ -116,7 +116,7 @@ const siteConfig: SiteConfig = {
     subscribe: {
         title: 'Subscribe to the Newsletter',
         text: 'Get new posts via email',
-        formUrl: 'https://benjiro.substack.com'
+        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8
