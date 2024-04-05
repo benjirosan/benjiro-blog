@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: "Benjiro's Blog",
+    title: "Benjiro's Notes",
     subtitle: 'On trauma, shame, and recovery',
     description: 'Benjiro writes about trauma, shame, and recovery.',
     image: {
@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: 'Shame affects all of us',
+        title: 'Shame affects many of us and often goes unrecognised',
         text: "This blog is where I share what I'm learning about trauma, shame, and addiction. These are big, powerful, and messy problems which effect millions of people around the world. It's my hope that sharing what I'm learning may help someone else.",
         image: {
             /*   src: '/hero.jpeg',
@@ -116,7 +116,7 @@ const siteConfig: SiteConfig = {
     subscribe: {
         title: 'Subscribe to the Newsletter',
         text: 'Get new posts via email',
-        formUrl: '#'
+        formUrl: 'https://www.google.com'
     },
     postsPerPage: 8,
     projectsPerPage: 8
