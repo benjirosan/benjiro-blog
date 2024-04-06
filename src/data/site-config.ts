@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Shame affects many of us and often goes unrecognised',
-        text: "&lt;p&gt;This blog is where I share what I'm learning about trauma, shame, and addiction. These are big, powerful, and messy problems which effect millions of people around the world.&lt;/p&gt;&lt;p&gt;It's my hope that sharing what I'm learning may help someone else.&lt;/p&gt;",
+        text: "This blog is where I share what I'm learning about trauma, shame, and addiction. These are big, powerful, and messy problems which effect millions of people around the world. It's my hope that sharing what I'm learning may help someone else.",
         image: {
             /*   src: '/hero.jpeg',
               alt: 'A person sitting at a desk in front of a computer' */
