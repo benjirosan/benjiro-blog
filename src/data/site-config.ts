@@ -100,8 +100,8 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: 'Shame affects many of us and often goes unrecognised',
-        text: "This blog is where I share what I'm learning about trauma, shame, and addiction. These are big, powerful, and messy problems which effect millions of people around the world. It's my hope that sharing what I'm learning may help someone else.",
+        title: 'Trauma and shame affect many of us but often go unrecognized. These are big, powerful, and messy issues, which affect a person&#39;s quality of life. I share what I&#39;m learning about these topics in the hope that it may help someone else.',
+        text: '',
         image: {
             /*   src: '/hero.jpeg',
               alt: 'A person sitting at a desk in front of a computer' */
@@ -115,7 +115,7 @@ const siteConfig: SiteConfig = {
     },
     subscribe: {
         title: 'Subscribe to the Newsletter',
-        text: 'Get new posts via email',
+        text: 'Get new posts and key updates via email',
         formUrl: '#'
     },
     postsPerPage: 8,
