@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: "Trauma and shame affect many of us but often go unrecognised. These are powerful and complex issues which affect a person's quality of life. I share what I'm learning about these subjects in the hope that these writings may help someone else.",
+        title: "Trauma and shame affect many of us but often go unrecognised. These are powerful and complex issues which affect a person's quality of life. I share what I'm learning about these subjects in the hope that these notes may help someone else.",
         text: '',
         image: {
             /*   src: '/hero.jpeg',
