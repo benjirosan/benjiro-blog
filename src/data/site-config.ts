@@ -39,11 +39,11 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: "Benjiro's Notes",
-    subtitle: 'On trauma, shame, and recovery',
+    subtitle: 'On trauma, shame, and self-compassion',
     description: 'Benjiro writes about trauma, shame, and recovery.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '',
+        alt: ''
     },
     headerNavLinks: [
         {
@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: "Trauma and shame affect many of us but often go unrecognised. These powerful and complex issues affect a person's quality of life. I share my learnings on these topics, hoping to help others.",
+        title: "Trauma and shame affect many of us but often go unrecognised. These complex issues can powerfully affect a person's quality of life. I share my learnings on these topics, hoping to help others.",
         text: '',
         image: {
             /*   src: '/hero.jpeg',
