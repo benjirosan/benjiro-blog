@@ -71,11 +71,11 @@ const siteConfig: SiteConfig = {
         /*  {
              text: 'About',
              href: '/about'
-         }, */
+         }, 
         {
             text: 'Contact',
             href: '/contact'
-        }
+        }*/
         /*  {
              text: 'Terms',
              href: '/terms'
@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
            } */
     ],
     hero: {
-        title: "Trauma and shame affect many of us but often go unrecognised. These complex issues can powerfully affect a person's quality of life. I share my learnings on these topics, hoping to help others.",
+        title: "A shame-based personality may spend years trying to 'fix' themselves, yet unknowingly reinforce the same shame-based identity. Genuine change requires opening to shame (and underlying trauma) with gentleness and compassion.",
         text: '',
         image: {
             /*   src: '/hero.jpeg',
