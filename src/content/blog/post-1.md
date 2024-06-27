@@ -5,10 +5,6 @@ publishDate: Jun 27 2024
 isFeatured: true
 tags:
   - Shame
-seo:
-  image:
-    src: ''
-    alt: ''
 ---
 A beginning. A setting off. A step towards what comes next.
 
