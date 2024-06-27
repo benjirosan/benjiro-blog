@@ -1,7 +1,7 @@
 ---
 title: A small step in a direction that matters to me
 excerpt: The first post and a list of the reasons why I'm writing about shame.
-publishDate: 27 Jun 2024
+publishDate: Jun 27 2024
 isFeatured: true
 tags:
   - Shame
