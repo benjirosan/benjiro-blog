@@ -7,8 +7,8 @@ tags:
   - Shame
 seo:
   image:
-    src: 
-    alt: 
+    src: ''
+    alt: ''
 ---
 A beginning. A setting off. A step towards what comes next.
 
